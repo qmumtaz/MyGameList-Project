@@ -4,17 +4,15 @@
 This project is an incomplete attempt at creating a game list application with a TypeScript frontend.
 
 # Features (or Planned Features)
- Display a list of games
- Add new games to the list
- Edit existing game entries
- Delete games from the list
+  - Display a list of games from an API
+  - Search for games and add them 
+ - Edit existing game entries
+-  Delete games from the list
 
 Setup Instructions
-Clone the repository.
-Install dependencies with npm install.
-Run the development server with npm start.
-Usage
-Describe briefly how to use the current features or what can be tested in the incomplete state.
+- Clone the repository.
+- Install dependencies with npm install.
+- Run the development server with npm start.
 
 
 This project is currently incomplete. Contributions are not being accepted at this time.
