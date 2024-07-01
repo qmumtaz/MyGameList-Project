@@ -1,5 +1,4 @@
 
-Certainly! Here's a concise README template you can use for your incomplete game list project:
 
 # GameList Project
 This project is an incomplete attempt at creating a game list application with a TypeScript frontend.
